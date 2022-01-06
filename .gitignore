@@ -17,4 +17,4 @@ poms/**/*.project
 poms/**/*.bak
 poms/**/*.log
 poms/jobs/process/Helena_examples_to_be_del/
-process/Helena_examples_to_be_del/
+.settings/
